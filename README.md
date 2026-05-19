@@ -43,6 +43,8 @@ Any extraneous or bloated code? Whitespace? Even this will impact the Ecograder 
 
 Are all of these functions necessary? Could the website user do without them? 
 
+Videos, with instant play, are particularly intensive? Could we cut this, or include a function to only play with user discretion? 
+
 Any extraneous or bloated code? Whitespace? Even this will impact the Ecograder score.
 
 ---
