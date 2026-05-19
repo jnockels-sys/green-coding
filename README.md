@@ -21,7 +21,7 @@ This GitHub repository includes the scaffold for a website, a HTML file for stru
 
 #### Group 1 - HTML file ####
 
-Could the image be compressed? Through open and free tools such as [Squoosh](https://squoosh.app/)?
+This image was made available, with permissions gained, by Mariam Yamin, University of Sheffield Senior Archivist, and captured to 300 DPI with a high quality camera. Could the image be compressed? Through open and free tools such as [Squoosh](https://squoosh.app/)?
 
 You could also experiment with the newer [WebP image format](https://en.wikipedia.org/wiki/WebP#Support), although this may depend on browser compatibility, showing how digital sustainability and interoperability can impact climate goals.
 
@@ -39,7 +39,7 @@ Could this font be changed?
 
 Any extraneous or bloated code? Whitespace? Even this will impact the Ecograder score.
 
-Group 3 - JavaScript
+#### Group 3 - JavaScript ####
 
 Are all of these functions necessary? Could the website user do without them? 
 
