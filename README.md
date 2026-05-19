@@ -1,2 +1,3 @@
-# green-coding
-W8 lesson materials for minifying website design, aligning with Digital Humanities' sustainability priorities. 
+# Minifying Design, A Climate Conscious Approach
+
+Lesson materials for minifying website design, aligning with Digital Humanities' sustainability priorities. 
