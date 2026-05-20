@@ -1,8 +1,8 @@
-# Week 8 - DH Skills and Methods, 'Minifying Design, A Climate Conscious DH Approach'
+# Week 8 - DH Skills and Methods, 'Minifying Design, Sustainability and Climate Conscious DH'
 
 In this week's lab, you will think about minimising energy usage in Digital Humanities website design, following minimal computing recommendations from the [DH Climate Coalition](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html). Just as the University of Glasgow has a [carbon management plan](https://www.gla.ac.uk/myglasgow/sustainability/carbonmanagementplan/), so does our classroom. Today, you will be actively contributing to reaching this greenhouse emission reduction target!
 
-Of course, we will not be able to change the base infrastructure supporting this GitHub Pages site today, which is already partially climate efficient being a static, one-page, resource. If we were decision-makers within Galleries, Libraries, Archives, and Museums (GLAMs), we might choose to change the physical hardware, networks and servers required for our code to run. Nonetheless, you can impact the software processing and developer operations (how many lines of code are required to parse a function, what software packages are we using, how strenous and heavy is our website to render).
+Of course, we will not be able to change the base infrastructure supporting this GitHub Pages site today, which is already partially climate efficient being a static, one-page, resource. If we were decision-makers within Galleries, Libraries, Archives, and Museums (GLAMs), we might choose to change the physical hardware, networks and servers required for our code to run. Nonetheless, you can impact the software processing and developer operations (how many lines of code are required to parse a function, what software packages are we using, how strenuous and heavy is our website to render).
 
 ## Warm-up, How Do Digital Organisations Think About Climate Goals? ## 
 
@@ -10,14 +10,14 @@ Using the DHCC Card Game provided on your desk, choose a random selection of ACT
 
 ## Task 1, Calculating Carbon ##
 
-Familiarise yourself with the [Ecograder](https://ecograder.com/report/Z5RLjMEoIuWaPk1MyWaKFgbX) tool, a free carbon calculator that assesses climate emissions from websites, including their size, coding languge and processing power, providing recommendations. As an experiment, find a complex website, for instance the [Guardian homepage](https://www.theguardian.com/uk), which includes interactive functions, renders and rich developement options, and compare this to a much simpler blog post of your choosing. A good example is the Barcelona-based [Low <-Tech Magazine](https://solar.lowtechmagazine.com/power), which runs on solar power batteries, and can go offline at times of sustained bad weather. 
+Familiarise yourself with the [Ecograder](https://ecograder.com/report/Z5RLjMEoIuWaPk1MyWaKFgbX) tool, a free carbon calculator that assesses climate emissions from websites, including their size, coding language and processing power, providing recommendations. As an experiment, find a complex website, for instance the [Guardian homepage](https://www.theguardian.com/uk), which includes interactive functions, renders and rich developement options, and compare this to a much simpler blog post of your choosing. A good example is the Barcelona-based [Low <-Tech Magazine](https://solar.lowtechmagazine.com/power), which runs on solar power batteries, and can go offline at times of sustained bad weather. 
 
 Compare the Ecograder reports, what differs? What is causing such carbon emission variance?
 
 ## Task 2 - Minifying Website Design ##
 
 This GitHub repository includes the scaffold for a website, a HTML file for structure, CSS file for website styling, and a JavaScript file for some interactive website functions. To see the website, following [This Link
-](https://jnockels-sys.github.io/green-coding/). Currently, this website scores 50/100 for climate efficiency, much lower than the Guardian's bulkly homepage, though this could be improved. You are going to collectively raise this result, as much as possible, over the course of this lab. 
+](https://jnockels-sys.github.io/green-coding/). Currently, this website scores 50/100 for climate efficiency, much lower than the Guardian's bulky homepage, though this could be improved. You are going to collectively raise this result, as much as possible, over the course of this lab. 
 
 #### Group 1 - HTML file ####
 
