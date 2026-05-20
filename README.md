@@ -1,4 +1,4 @@
-# Week 8 - DH Skills and Methods, 'Minifying Design, A Climate Conscious Approach'
+# Week 8 - DH Skills and Methods, 'Minifying Design, A Climate Conscious DH Approach'
 
 In this week's lab, you will think about minimising energy usage in Digital Humanities website design, following minimal computing recommendations from the [DH Climate Coalition](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html). Just as the University of Glasgow has a [carbon management plan](https://www.gla.ac.uk/myglasgow/sustainability/carbonmanagementplan/), so does our classroom. Today, you will be actively contributing to reaching this greenhouse emission reduction target!
 
